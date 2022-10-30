@@ -9,7 +9,8 @@ app.disable('x-powered-by');
 
 app.use("/", (req, res, next) => {
 	if(!req.originalUrl.includes('.')){
-		const updated = str.replace("__PAGE_META__", `<meta property="og:title" content="DAVIDTEST" /><title>${req.originalUrl.substring(1)}</title>`);
+		let updated = str.replace("__OG_TITLE__", `${req.originalUrl.replace('/',' ')}`);
+		updated = updated.replace("__MAIN_TITLE__", `${req.originalUrl.replace('/',' ')}`);
 		res.send(updated);
 	}
 	next();
