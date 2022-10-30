@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c867cb95.css",
+    "main.js": "/static/js/main.a84e9208.js",
+    "static/js/787.202c8efe.chunk.js": "/static/js/787.202c8efe.chunk.js",
+    "static/js/8.a3d79d61.chunk.js": "/static/js/8.a3d79d61.chunk.js",
+    "static/media/primeicons.svg": "/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/monetizar650x450.png": "/static/media/monetizar650x450.a157b804ff899557373a.png",
+    "static/media/subscripciones400x450-con-lentes.png": "/static/media/subscripciones400x450-con-lentes.35147357a1f377e8078a.png",
+    "static/media/grafico-header.png": "/static/media/grafico-header.fae3f456610b20954cbd.png",
+    "static/media/subir-videos-background.svg": "/static/media/subir-videos-background.e0b5db20366a76eeb7f7.svg",
+    "static/media/ingresos-475x450.png": "/static/media/ingresos-475x450.4298d37a37745a0e6457.png",
+    "static/media/primeicons.eot": "/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "service-worker.js": "/service-worker.js",
+    "static/media/animaciones-subscrpciones-400x450.svg": "/static/media/animaciones-subscrpciones-400x450.20576818d91a36b0985d.svg",
+    "static/media/animaciones-header.svg": "/static/media/animaciones-header.d15c3d625c19e9681954.svg",
+    "static/media/thumbnail-upload-bg.svg": "/static/media/thumbnail-upload-bg.509025ca799347267e1e.svg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/animaciones-ingresos-475x450.svg": "/static/media/animaciones-ingresos-475x450.5061a855725ae0323ac3.svg",
+    "static/media/animaciones-monetizar-650x450_2.svg": "/static/media/animaciones-monetizar-650x450_2.5b80f50c13ba2d00afc2.svg",
+    "index.html": "/index.html",
+    "static/media/info.svg": "/static/media/info.d539ae9405ee8ea3d62c.svg",
+    "static/media/animaciones-monetizar-650x450_1.svg": "/static/media/animaciones-monetizar-650x450_1.ddf1205c6109b2b34b0d.svg",
+    "static/media/bg-creators-landing.svg": "/static/media/bg-creators-landing.8a10e40f073183dd7183.svg",
+    "static/media/more-icon.svg": "/static/media/more-icon.f535db6313a3f4589e00.svg",
+    "main.c867cb95.css.map": "/static/css/main.c867cb95.css.map",
+    "main.a84e9208.js.map": "/static/js/main.a84e9208.js.map",
+    "787.202c8efe.chunk.js.map": "/static/js/787.202c8efe.chunk.js.map",
+    "8.a3d79d61.chunk.js.map": "/static/js/8.a3d79d61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c867cb95.css",
+    "static/js/main.a84e9208.js"
+  ]
+}
